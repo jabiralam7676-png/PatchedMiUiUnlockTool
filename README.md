@@ -15,6 +15,7 @@ Xiaomi for review and received approval to be shared publicly.
 - No additional dependencies
 - Lightweight and fast
 - Clean UI adjustments
+- Bypasses Wait time when unlocking.
 
 ---
 
