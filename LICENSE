@@ -1,0 +1,37 @@
+Copyright (c) 2025 Jabir Alam
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the following conditions:
+
+1. This Software is provided strictly for educational and research purposes.
+   It is not affiliated with, endorsed by, or officially associated with
+   Xiaomi Inc. All trademarks and product names mentioned are the property
+   of their respective owners.
+
+2. This Software includes modifications to the Xiaomi Mi Unlock tool.
+   These modifications were submitted to Xiaomi for review and received
+   approval for public sharing. However, this approval does not grant any
+   legal rights, exemptions, or official licenses regarding redistribution,
+   reverse engineering, or usage of Xiaomi's proprietary components.
+
+3. **Any person who publishes, forks, or redistributes this repository or any
+   part of the Software must include the following credit line clearly at the
+   end of their README or project description**:
+
+   "Credits: JabirAlam. https://github.com/jabiralam7676-png"
+
+4. The author of this repository shall not be held liable for any damages,
+   device issues, warranty loss, account actions, data loss, or legal
+   consequences arising from the use, misuse, or distribution of this
+   Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
